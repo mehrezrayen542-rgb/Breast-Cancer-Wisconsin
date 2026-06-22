@@ -47,9 +47,6 @@ Steps applied:
 - 🔁 Encoded labels:
   - M → 1
   - B → 0
-- ✂️ Train/Test split
-- 📏 Feature scaling using `StandardScaler`
-
 ---
 
 ## 📊 Exploratory Data Analysis (EDA)
